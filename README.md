@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumya S Raddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...")](https://tenor.com/en-GB/view/programming-gif-25868426 />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🌱 I’m currently learning **JavaScript, React**
 
